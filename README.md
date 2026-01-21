@@ -25,7 +25,7 @@ Data Analyst Junior con sólidas habilidades en Python, SQL y Power BI, con enfo
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-## Table of Contents
+## Proyectos Seleccionados
 
 - [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 - [Project 2: Instacart Top Sales](https://github.com/davesh9123-alt/Instacart_top_sales)
