@@ -35,19 +35,19 @@ Data Analyst Junior con sólidas habilidades en Python, SQL y Power BI, con enfo
 
 ## [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 
-Analisis historico de las ventas de videojuegos desde 1980 hasta 2016 segun la plataforma de ventas Ice.
+Este análisis se centra en los factores que influyen en el éxito de los videojuegos vendidos en la tienda online de ICE. Utilizando datos de 2016 sobre reseñas de usuarios y expertos, géneros, plataformas y ventas históricas, el objetivo es identificar patrones que predigan qué juegos tendrán un buen rendimiento en 2017. El proyecto incluye la preparación de datos, el análisis exploratorio de datos y la creación de modelos para comprender la dinámica de la industria del videojuego, orientar las decisiones de inversión y las estrategias publicitarias para optimizar las promociones de videojuegos.
 
 
 ## [Project 2: Instacart Top Sales](https://github.com/davesh9123-alt/Instacart_top_sales)
 
-Analisis sobre ventas y consumo de los usuarios de la tienda online Instacart.
+Centrado en el análisis de datos comerciales de Instacart, una plataforma de entrega de comestibles a domicilio, este proyecto explora y preprocesa un conjunto de datos compuesto por cinco tablas clave: pedidos, productos y detalles de los pedidos. Cada tabla ofrece información sobre el comportamiento de compra del cliente, incluyendo la frecuencia de los pedidos, las preferencias de productos y el momento de entrega. El conjunto de datos se ajustó para simular escenarios realistas de gestión de datos mediante la introducción de valores faltantes y duplicados. El análisis busca descubrir patrones de comportamiento del cliente que permitan tomar decisiones estratégicas para mejorar la experiencia del usuario y optimizar el proceso de compra en la plataforma Instacart.
 
 
 ## [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
 
-Analisis sobre el comportamiento de los usuarios de dos planes de telefonia movil para determinar cual es el plan mas rentable. El proyecto incluye los datasets utilizados (los datos en bruto) dentro de la carpeta "datasets" y un archivo 'ipynb' donde se desarrolla la limpieza y el analisis de datos como tal.
+Este proyecto evalúa los ingresos generados por los dos planes prepago de Megaline, Surf y Ultimate, para determinar cuál es más rentable. Analizando datos de 500 clientes, incluye la depuración de datos, el análisis exploratorio y la comparación de ingresos entre los planes. El proyecto implica la realización de pruebas de hipótesis para evaluar las diferencias significativas en los ingresos promedio entre planes y regiones, lo que proporciona información para optimizar el presupuesto publicitario de la compañía.
 
 
 ## [Project 4: Aplicacion Web de Autos y EDA](https://github.com/davesh9123-alt/Webapp_Vehicles_and_EDA)
 
-En este proyecto desarrolle una aplicacion web interactiva con la finalidad de poder hacer comparativas en tiempo real sobre una base de datos de automoviles, ya que se pueden catagorizar por modelos, fabricantes y precios. Tambien realizacion un EDA para extraer insights relevantes para la venta a los usuarios finales.
+En este proyecto desarrolle una aplicacion web interactiva con la finalidad de poder hacer comparativas en tiempo real sobre una base de datos de automoviles, lo que permite catagorizar por modelos, fabricantes y precios. Tambien se incluye la realizacion un EDA para extraer insights relevantes para la venta a los usuarios finales.
