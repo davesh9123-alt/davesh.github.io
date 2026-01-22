@@ -64,6 +64,40 @@ Claramente los videojuegos de acción, disparos y deportes generan mayores venta
 Centrado en el análisis de datos comerciales de Instacart, una plataforma de entrega de comestibles a domicilio, este proyecto explora y preprocesa un conjunto de datos compuesto por cinco tablas clave: pedidos, productos y detalles de los pedidos. Cada tabla ofrece información sobre el comportamiento de compra del cliente, incluyendo la frecuencia de los pedidos, las preferencias de productos y el momento de entrega. El conjunto de datos se ajustó para simular escenarios realistas de gestión de datos mediante la introducción de valores faltantes y duplicados. El análisis busca descubrir patrones de comportamiento del cliente que permitan tomar decisiones estratégicas para mejorar la experiencia del usuario y optimizar el proceso de compra en la plataforma Instacart.
 
 
+## Habilidades Tecnológicas Utilizadas
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+## Preguntas clave
+
+- Para cada hora del día, ¿Cuantas personas hacen ordenes?
+- ¿Cuáles son los 20 productos más populares?
+- ¿Cuántos artículos compran las personas normalmente en un pedido?
+
+
+## Resultados
+
+En promedio las personas suelen realizar pedidos de 10 articulos. La grafica muestra la cantidad de articulos se carga mas hacia la izquierda, es decir, que las personas realizan pedidos de entre 1 y 10 articulos con mucha mayor frecuencia.
+
+<img width="600" height="462" alt="instacart_orders" src="https://github.com/user-attachments/assets/707a288b-f575-425a-bf38-782d9ad3f3ce" />
+
+
+## Conclusiones y recomendaciones
+
+El analisis muestra como los productos organicos (frutas y verduras) son los productos mas vendidos de la plataforma Instacart a lo largo de un periodo del 2017. Los dias donde suele haber mayores pedidos son los domingos y lunes, y la mayor trafico de pedidos suele ocurrir despues de 10 am hasta 5 pm. Esto indica que se deben priorizar aquellos articulos con mayor demanda para que esten siempre disponibles y maximizar las ventas. Asi mismo se deben optimizar los repartidores a las horas pico del dia y en especial aquellos dias de la semana donde suele haber mayor numero de pedidos.
+
+
+
 ## [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
 
 Este proyecto evalúa los ingresos generados por los dos planes prepago de Megaline, Surf y Ultimate, para determinar cuál es más rentable. Analizando datos de 500 clientes, incluye la depuración de datos, el análisis exploratorio y la comparación de ingresos entre los planes. El proyecto implica la realización de pruebas de hipótesis para evaluar las diferencias significativas en los ingresos promedio entre planes y regiones, lo que proporciona información para optimizar el presupuesto publicitario de la compañía.
