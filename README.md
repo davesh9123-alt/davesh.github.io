@@ -6,6 +6,12 @@ I am a Data Analyst with a solid foundation in Python, SQL and Data Visualizatio
 Soy analista de datos con sólidos conocimientos de Python, SQL y visualización de datos (Tableau, Power BI), enfocado en transformar datos en información clara y práctica. Mi formación en Física, Matemáticas y Psicología me proporciona un conjunto único de conocimientos y habilidades que utilizo en combinación con el análisis de datos para ofrecer un mejor análisis estadístico y una visión más profunda de las personas detrás de los datos.
 
 
+## Contact me
+
+LinkedIn: https://www.linkedin.com/in/davidsalasherrera/
+E-mail: davidsalasherrera@outlook.com
+
+
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
