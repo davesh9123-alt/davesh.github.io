@@ -170,7 +170,7 @@ El proposito de la prueba era probar los cambios relacionados con la introduccio
 - En general no hubo una diferencia significativa notable, pero esto pudo deberse a los errores en la distribucion de participantes en la prueba.
 
 
-[Proyecto 3: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
+## [Proyecto 3: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
 
 En este proyecto trabajamos con la cadena de gimnasios Model Fitness. Nos brindaron datos de sus clientes con la finalidad de analizar el comportamiento de sus usuarios y desarrollar una estrategia de retencion. Es decir, nos pidieron analizar los datos para crear un estrategia para evitar la cancelacion de las suscripciones.
 
