@@ -43,6 +43,10 @@ E-mail: davidsalasherrera@outlook.com
 - [Proyecto 4: Analisis basado en eventos y test A/A/B](https://github.com/davesh9123-alt/S12_Analisis_Eventos_Embudo_Test_AAB)
 - [Proyecto 5: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
 
+## Enlace a portfolio de proyectos en GitHub
+
+- [Portfolio de Proyectos en GitHub](https://github.com/davesh9123-alt/David-Salas-Data-Portfolio)
+
 
 ## [Proyecto 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 
