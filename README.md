@@ -2,19 +2,15 @@
 
 English:
 
-**Data Analyst with focus on Marketing Analytics | Python, SQL & Business Intelligence**
+### Data Analyst with focus on Marketing Analytics | Python, SQL & Business Intelligence
 
-I'm a data analyst with a somewhat unusual interdisciplinary background in Physics, Mathematics, and Psychology. This combination allows me to go beyond the numbers: understanding the human behavior behind the data while maintaining scientific rigor to optimize business strategies.
-
-My focus is on Marketing Analytics, helping companies maximize campaign performance and understand their audience through a structured workflow
+I'm a data analyst with a somewhat unusual interdisciplinary background in Physics, Mathematics, and Psychology. This combination allows me to go beyond the numbers: understanding the human behavior behind the data while maintaining scientific rigor to optimize business strategies. My focus is on Marketing Analytics, helping companies maximize campaign performance and understand their audience through a structured workflow.
 
 Spanish:
 
-**Analista de Datos con enfoque en Marketing Analytics | Python, SQL & Business Intelligence**
+### Analista de Datos con enfoque en Marketing Analytics | Python, SQL & Business Intelligence
 
-Soy analista de datos con una formación interdisciplinaria (un poco inusual) en Física, Matemáticas y Psicología. Esta combinación me permite ir más allá de los números: entendiendo el comportamiento humano detrás de los datos, pero manteniendo el rigor científico para optimizar estrategias de negocio.
-
-Me enfoco en Marketing Analytics, ayudando a las empresas a maximizar el rendimiento de sus campañas y a comprender a su audiencia mediante un proceso de trabajo estructurado
+Soy analista de datos con una formación interdisciplinaria (un poco inusual) en Física, Matemáticas y Psicología. Esta combinación me permite ir más allá de los números: entendiendo el comportamiento humano detrás de los datos, pero manteniendo el rigor científico para optimizar estrategias de negocio. Me enfoco en Marketing Analytics, ayudando a las empresas a maximizar el rendimiento de sus campañas y a comprender a su audiencia mediante un proceso de trabajo estructurado.
 
 
 ## Contact me
