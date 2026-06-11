@@ -1,9 +1,20 @@
 ## About me
 
-I am a Data Analyst with a solid foundation in Python, SQL and Data Visualization (Tableau, Power BI), focused on transforming data into clear and actionable insights. I have a background in Physics, Math and Psychology which gives me a unique set of knowledge and skills that I use in combination with data analytics to provide better statistical analysis and deeper insight of the people behind data.
+English:
 
+**Data Analyst with focus on Marketing Analytics | Python, SQL & Business Intelligence**
 
-Soy analista de datos con sólidos conocimientos de Python, SQL y visualización de datos (Tableau, Power BI), enfocado en transformar datos en información clara y práctica. Mi formación en Física, Matemáticas y Psicología me proporciona un conjunto único de conocimientos y habilidades que utilizo en combinación con el análisis de datos para ofrecer un mejor análisis estadístico y una visión más profunda de las personas detrás de los datos.
+I'm a data analyst with a somewhat unusual interdisciplinary background in Physics, Mathematics, and Psychology. This combination allows me to go beyond the numbers: understanding the human behavior behind the data while maintaining scientific rigor to optimize business strategies.
+
+My focus is on Marketing Analytics, helping companies maximize campaign performance and understand their audience through a structured workflow
+
+Spanish:
+
+**Analista de Datos con enfoque en Marketing Analytics | Python, SQL & Business Intelligence**
+
+Soy analista de datos con una formación interdisciplinaria (un poco inusual) en Física, Matemáticas y Psicología. Esta combinación me permite ir más allá de los números: entendiendo el comportamiento humano detrás de los datos, pero manteniendo el rigor científico para optimizar estrategias de negocio.
+
+Me enfoco en Marketing Analytics, ayudando a las empresas a maximizar el rendimiento de sus campañas y a comprender a su audiencia mediante un proceso de trabajo estructurado
 
 
 ## Contact me
@@ -37,45 +48,67 @@ E-mail: davidsalasherrera@outlook.com
 
 ## Proyectos Seleccionados
 
-- [Proyecto 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
-- [Proyecto 2: Nuevo embudo de pago - Analisis de pruebas A/B](https://github.com/davesh9123-alt/S16_Analisis_test_AB_embudo_eventos)
-- [Proyecto 3: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
-- [Proyecto 4: Analisis basado en eventos y test A/A/B](https://github.com/davesh9123-alt/S12_Analisis_Eventos_Embudo_Test_AAB)
-- [Proyecto 5: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
+- [Proyecto 1: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
+- [Proyecto 2: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
+- [Proyecto 3: Nuevo embudo de pago - Analisis de pruebas A/B](https://github.com/davesh9123-alt/S16_Analisis_test_AB_embudo_eventos)
+- [Proyecto 4: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
+- [Proyecto 5: Analisis basado en eventos y test A/A/B](https://github.com/davesh9123-alt/S12_Analisis_Eventos_Embudo_Test_AAB)
+
 
 ## Enlace a portfolio de proyectos en GitHub
 
 - [Portfolio de Proyectos en GitHub](https://github.com/davesh9123-alt/David-Salas-Data-Portfolio)
 
 
-## [Proyecto 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
+## [Proyecto 1: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
+
+El objetivo de este analisis fue optimizar los gastos de Marketing de la tienda online Showz,  una de las tiendas en línea más populares y confiables a nivel mundial para coleccionistas de figuras de acción.
+
+
+## Preguntas clave
+
+- ¿Como los clientes usan el servicio?
+- ¿Cuando los clientes comienzan a comprar?
+- ¿Cuanto dinero aporta cada cliente?
+- ¿Cuando los ingresos cubren el costo de adquisicion de los clientes?
+
+
+## === Resultados del analisis de cohortes y la tasa de retencion ===
+
+El mapa de calor muestra mas claramente como la retencion disminuye a lo largo de los meses siguientes a la primera visita. Hay cohortes que mantienen una retencion mas alta, pero en general disminuyen a lo largo del tiempo. Tambien podemos observar que las primeras cohortes parecen tener una mayor rentecion los primeros meses que las cohortes mas nuevas, al menos en el periodo de tiempo que examinamos. La cohorte de 2017-06 (junio 2017), es decir, la primera cohorte, es la que presenta una mayor rentencion.
+
+<img width="1015" height="619" alt="Screenshot_20260604133835" src="https://github.com/user-attachments/assets/91f0134c-ef34-4c2e-9e54-af19a760bfd8" />
+
+
+## Resultados de Costos de Marketing y ROMI netos
+
+El ROMI fue positivo para varias fuentes. La que mas genero fue la fuente 1 seguido de la 2. Sin embargo no podemos decir lo mismo de la fuente 3 que fue la fuente donde mas se ha invertido y apenas ha generado un beneficio. Las fuentes 4, 5, 9 y 10 presentan beneficios que podriamos llamar saludables.
+
+<img width="891" height="548" alt="Screenshot_20260604135044" src="https://github.com/user-attachments/assets/1440106a-3158-43b0-becb-46b6967637ae" />
+
+
+<img width="898" height="545" alt="Screenshot_20260604135112" src="https://github.com/user-attachments/assets/139bcece-5289-4b18-b34d-f2deb5f074a0" />
+
+
+<img width="859" height="546" alt="Screenshot_20260604135147" src="https://github.com/user-attachments/assets/606d2d77-6020-43c3-9eb9-f55ba57ad6fb" />
+
+
+## Conclusiones y recomendaciones
+
+- Las fuentes de marketing que registraron un ROMI mas alto fueron la 1 y 2 por mucho, 109.3 y 60.6 respectivamente. Un tanto mas abajo la fuente 5 con 21.8. De ahi las fuentes 4 y 9 generaron un ROMI de 7.1 y 5.6 respectivamente. La fuente de 3 solo ha generado un ROMI de 1.09 y la fuente 7 es casi nula y no sabemos de donde salio.
+
+- En cuanto a las plataformas o dispositivos tenemos que los dispositivos de escritorio (desktop, laptops, etc) aportan mayores ingresos, aproximadamente mas 10 veces mas comparado con los dispositivos touch (dispositivos moviles y portatiles). Definitivamente se pueden atraer mas clientes de dispositivos moviles, pero sin duda los usuarios y cliente provenientes de desktop deben tener mayor prioridad por el porcentaje tan alto de ingresos que aportan.
+
+- He visto que las fuentes 1 y 2 presentan los mejores margenes de ROMI, por lo que se puede mantener la estrategia en estas fuentes. Por otro lado observamos como la fuente 3 ha sido la que mayores gastos ha tenido, pero su retorno de inversion no ha sido muy favorable. Claramente se deben revisar las estrategias de marketing para la fuente 3 y quiza reducir gastos para esa fuente. Las fuentes 4, 5, 9 y 10 presentan un ROMI mas favorable, pero nada excepcional, por lo que tambien se podrian revisar las estrategias para esos canales de marketing.
+
+- La inversion realizada para la fuente 3 podria distribuirse a las demas fuentes y comprobar si las demas fuentes son mas rentables. La razon por la que las fuentes 1 y 2 tienen un ROMI mas alto es en parte porque la inversion en dichas fuentes no fue tan elevada en comparacion con la fuente 3 por ejemplo, y sin embargo lograron retornos de inversion mas altos. Se debe considerar revisar la estrategia de inversion por fuente de marketing para optimizar y mejorar el ROMI de cada fuente.
+
+- Otro punto ha tener en cuenta es la tasa de retencion de visitas. Todas las cohortes presentan numeros mas altos en su primer mes de visita y sabemos que esos numeros decaen con el tiempo, pero se podria considerar alguna estrategia que logre mantener cierta estabilidad en las visitas, ofertas, promociones o articulos nuevos. Alguna forma que incentive los clicks y las visitas constantes al menos para saber que hay de nuevo en Showz.
+
+
+## [Proyecto 2: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 
 Este análisis se centra en los factores que influyen en el éxito de los videojuegos vendidos en la tienda online de ICE. Utilizando datos de 2016 sobre reseñas de usuarios y expertos, géneros, plataformas y ventas históricas, el objetivo es identificar patrones que predigan qué juegos tendrán un buen rendimiento en 2017. El proyecto incluye la preparación de datos, el análisis exploratorio de datos y la creación de modelos para comprender la dinámica de la industria del videojuego, orientar las decisiones de inversión y las estrategias publicitarias para optimizar las promociones de videojuegos.
-
-
-## Habilidades tecnologicas utilizadas
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
 ## Preguntas clave
@@ -99,7 +132,7 @@ Para esta parte del analisis tomamos datos de plataformas mas recientes y las di
 Claramente los videojuegos de acción, disparos y deportes generan mayores ventas de forma acumulativa, sin embargo, inundar el mercado con este tipo de videojuegos únicamente causaría una especie de agotamiento en los jugadores. Por ello a pesar de que sea contra intuitivo, es recomendable tener un mercado de géneros de videojuegos más variado, pues los videojuegos de otros géneros también generan ventas significativas y mantienen el balance en el mercado de videojuegos.
 
 
-## [Proyecto 2: Nuevo embudo de pago - Analisis de pruebas A/B](https://github.com/davesh9123-alt/S16_Analisis_test_AB_embudo_eventos)
+## [Proyecto 3: Nuevo embudo de pago - Analisis de pruebas A/B](https://github.com/davesh9123-alt/S16_Analisis_test_AB_embudo_eventos)
 
 Una tarea analítica para una tienda en línea internacional. Nuestros predecesores no consiguieron completarla: lanzaron una prueba A/B y luego abandonaron (para iniciar una granja de sandías en Brasil). Solo nos dejaron las especificaciones técnicas y los resultados de las pruebas.
 
@@ -174,7 +207,7 @@ El proposito de la prueba era probar los cambios relacionados con la introduccio
 - En general no hubo una diferencia significativa notable, pero esto pudo deberse a los errores en la distribucion de participantes en la prueba.
 
 
-## [Proyecto 3: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
+## [Proyecto 4: Estrategia de Retencion para Model Fitness](https://github.com/davesh9123-alt/S14_Analisis_Retencion_Gimnasio)
 
 En este proyecto trabajamos con la cadena de gimnasios Model Fitness. Nos brindaron datos de sus clientes con la finalidad de analizar el comportamiento de sus usuarios y desarrollar una estrategia de retencion. Es decir, nos pidieron analizar los datos para crear un estrategia para evitar la cancelacion de las suscripciones.
 
@@ -252,7 +285,7 @@ En el analisis exploratorio por medio de la matriz de correlaciones encontramos 
 Con esto damos por terminado este pequeño analisis para apoyar en la creacion de una estrategia de retencion para Model Fitness.
 
 
-## [Proyecto 4: Analisis basado en eventos y test A/A/B](https://github.com/davesh9123-alt/S12_Analisis_Eventos_Embudo_Test_AAB)
+## [Proyecto 5: Analisis basado en eventos y test A/A/B](https://github.com/davesh9123-alt/S12_Analisis_Eventos_Embudo_Test_AAB)
 
 En este proyecto analizamos el embudo de ventas de una tienda online de productos alimenticios. Investigamos el comportamiento de los usuarios de la app de la empresa. Posteriormente analizamos los resultados de la prueba A/A/B que realizaron. La prueba consistio en cambios en el tipo de fuente para las letras de la aplicacion. Es decir, dos grupos (grupos A) se les dio la version antigua con fuentes originales y el grupo experimental (grupo B) se le dio una version con fuentes nuevas. Nuestra tarea consistio en descubrir que version tiene mejores resultados.
 
@@ -291,50 +324,3 @@ Realizamos las pruebas con dos diferentes valores de significancia alpha, 0.05 y
 Los resultados parecen ser bastante concluyentes. Aun combinando ambos grupos de control contra el grupo experimental, el resultado de la prueba nos dice que no hay diferencia significativa entre los grupos. Esto quiere decir que el grupo experimental no ha dado resultados negativos pero tampoco positivos. Simplemente, los cambios en las fuentes de la app no han provocado cambio alguno pues el comportamiento de los usuarios es practicamente igual.
 
 El objetivo no fue logrado, no existe una diferencia significativa en los grupos.
-
-
-## [Proyecto 5: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
-
-El objetivo de este analisis fue optimizar los gastos de Marketing de la tienda online Showz,  una de las tiendas en línea más populares y confiables a nivel mundial para coleccionistas de figuras de acción.
-
-
-## Preguntas clave
-
-- ¿Como los clientes usan el servicio?
-- ¿Cuando los clientes comienzan a comprar?
-- ¿Cuanto dinero aporta cada cliente?
-- ¿Cuando los ingresos cubren el costo de adquisicion de los clientes?
-
-
-## === Resultados del analisis de cohortes y la tasa de retencion ===
-
-El mapa de calor muestra mas claramente como la retencion disminuye a lo largo de los meses siguientes a la primera visita. Hay cohortes que mantienen una retencion mas alta, pero en general disminuyen a lo largo del tiempo. Tambien podemos observar que las primeras cohortes parecen tener una mayor rentecion los primeros meses que las cohortes mas nuevas, al menos en el periodo de tiempo que examinamos. La cohorte de 2017-06 (junio 2017), es decir, la primera cohorte, es la que presenta una mayor rentencion.
-
-<img width="1015" height="619" alt="Screenshot_20260604133835" src="https://github.com/user-attachments/assets/91f0134c-ef34-4c2e-9e54-af19a760bfd8" />
-
-
-## Resultados de Costos de Marketing y ROMI netos
-
-El ROMI fue positivo para varias fuentes. La que mas genero fue la fuente 1 seguido de la 2. Sin embargo no podemos decir lo mismo de la fuente 3 que fue la fuente donde mas se ha invertido y apenas ha generado un beneficio. Las fuentes 4, 5, 9 y 10 presentan beneficios que podriamos llamar saludables.
-
-<img width="891" height="548" alt="Screenshot_20260604135044" src="https://github.com/user-attachments/assets/1440106a-3158-43b0-becb-46b6967637ae" />
-
-
-<img width="898" height="545" alt="Screenshot_20260604135112" src="https://github.com/user-attachments/assets/139bcece-5289-4b18-b34d-f2deb5f074a0" />
-
-
-<img width="859" height="546" alt="Screenshot_20260604135147" src="https://github.com/user-attachments/assets/606d2d77-6020-43c3-9eb9-f55ba57ad6fb" />
-
-
-## Conclusiones y recomendaciones
-
-- Las fuentes de marketing que registraron un ROMI mas alto fueron la 1 y 2 por mucho, 109.3 y 60.6 respectivamente. Un tanto mas abajo la fuente 5 con 21.8. De ahi las fuentes 4 y 9 generaron un ROMI de 7.1 y 5.6 respectivamente. La fuente de 3 solo ha generado un ROMI de 1.09 y la fuente 7 es casi nula y no sabemos de donde salio.
-
-- En cuanto a las plataformas o dispositivos tenemos que los dispositivos de escritorio (desktop, laptops, etc) aportan mayores ingresos, aproximadamente mas 10 veces mas comparado con los dispositivos touch (dispositivos moviles y portatiles). Definitivamente se pueden atraer mas clientes de dispositivos moviles, pero sin duda los usuarios y cliente provenientes de desktop deben tener mayor prioridad por el porcentaje tan alto de ingresos que aportan.
-
-- He visto que las fuentes 1 y 2 presentan los mejores margenes de ROMI, por lo que se puede mantener la estrategia en estas fuentes. Por otro lado observamos como la fuente 3 ha sido la que mayores gastos ha tenido, pero su retorno de inversion no ha sido muy favorable. Claramente se deben revisar las estrategias de marketing para la fuente 3 y quiza reducir gastos para esa fuente. Las fuentes 4, 5, 9 y 10 presentan un ROMI mas favorable, pero nada excepcional, por lo que tambien se podrian revisar las estrategias para esos canales de marketing.
-
-- La inversion realizada para la fuente 3 podria distribuirse a las demas fuentes y comprobar si las demas fuentes son mas rentables. La razon por la que las fuentes 1 y 2 tienen un ROMI mas alto es en parte porque la inversion en dichas fuentes no fue tan elevada en comparacion con la fuente 3 por ejemplo, y sin embargo lograron retornos de inversion mas altos. Se debe considerar revisar la estrategia de inversion por fuente de marketing para optimizar y mejorar el ROMI de cada fuente.
-
-- Otro punto ha tener en cuenta es la tasa de retencion de visitas. Todas las cohortes presentan numeros mas altos en su primer mes de visita y sabemos que esos numeros decaen con el tiempo, pero se podria considerar alguna estrategia que logre mantener cierta estabilidad en las visitas, ofertas, promociones o articulos nuevos. Alguna forma que incentive los clicks y las visitas constantes al menos para saber que hay de nuevo en Showz.
-
