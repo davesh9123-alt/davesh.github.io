@@ -1,16 +1,39 @@
 ## About me
 
+
 English:
 
 ### Data Analyst with focus on Marketing Analytics | Python, SQL & Business Intelligence
 
-I'm a data analyst with a somewhat unusual interdisciplinary background in Physics, Mathematics, and Psychology. This combination allows me to go beyond the numbers: understanding the human behavior behind the data while maintaining scientific rigor to optimize business strategies. My focus is on Marketing Analytics, helping companies maximize campaign performance and understand their audience through a structured workflow.
+I'm a data analyst with a focus on understanding the human behavior behind the data while maintaining scientific rigor to optimize business strategies. I have experince working on an analysis project for an online store focused on optimizing marketing expenses, which resulted in the most efficient distribution of the budget among the different customer sources.
+
+My focus is on Marketing Analytics, helping companies maximize campaign performance and understand their audience through a structured workflow:
+
+1. Collection and Modeling: I extract and clean user behavior and acquisition channel data using Python (Pandas) and SQL.
+
+2. Key Metrics Analysis: I evaluate spending efficiency by analyzing ROMI (Return on Marketing Investment) and calculating CAC (Customer Acquisition Cost).
+
+3. Prediction and Valuation: I model LTV (Customer Lifetime Value) using Scikit-learn to identify the most profitable segments and anticipate consumer trends. 
+
+4. Visualization: I translate complex metrics into interactive Power BI and Tableau dashboards to facilitate executive decision-making.
+
 
 Spanish:
 
 ### Analista de Datos con enfoque en Marketing Analytics | Python, SQL & Business Intelligence
 
-Soy analista de datos con una formación interdisciplinaria (un poco inusual) en Física, Matemáticas y Psicología. Esta combinación me permite ir más allá de los números: entendiendo el comportamiento humano detrás de los datos, pero manteniendo el rigor científico para optimizar estrategias de negocio. Me enfoco en Marketing Analytics, ayudando a las empresas a maximizar el rendimiento de sus campañas y a comprender a su audiencia mediante un proceso de trabajo estructurado.
+Soy analista de datos y me especializo en comprender el comportamiento humano detrás de los datos, manteniendo el rigor científico para optimizar las estrategias de negocio. Tengo experiencia trabajando en un proyecto de análisis para una tienda online, enfocado en la optimización de los gastos de marketing, lo que resultó en una distribución más eficiente del presupuesto entre las diferentes fuentes de clientes.
+
+Mi enfoque es la Analítica de Marketing, ayudando a las empresas a maximizar el rendimiento de sus campañas y comprender a su audiencia a través de un flujo de trabajo estructurado:
+
+1. Recopilación y Modelado: Extraigo y limpio datos de comportamiento del usuario y canales de adquisición utilizando Python (Pandas) y SQL.
+
+2. Análisis de Métricas Clave: Evalúo la eficiencia del gasto analizando el ROMI (Retorno de la Inversión en Marketing) y calculando el CAC (Costo de Adquisición de Clientes).
+
+3. Predicción y Valoración: Modelo el LTV (Valor de Vida del Cliente) utilizando Scikit-learn para identificar los segmentos más rentables y anticipar las tendencias de consumo.
+
+4. Visualización: Transformo métricas complejas en paneles interactivos de Power BI y Tableau para facilitar la toma de decisiones ejecutivas.
+
 
 
 ## Contact me
@@ -26,6 +49,7 @@ Soy analista de datos con una formación interdisciplinaria (un poco inusual) en
 📄English CV:: https://docs.google.com/document/d/1s_r3sy7Io3w3-mvWUzh6kqr1f1KiNghobvmMNISvgQw/edit?usp=drive_link
 
 📄Español CV: https://docs.google.com/document/d/1wQtkImOQZOKNnl2Mfp7vr5nbJZn2BZKpcg4IZOFycFg/edit?usp=drive_link
+
 
 
 ## Tech stack
@@ -50,6 +74,7 @@ Soy analista de datos con una formación interdisciplinaria (un poco inusual) en
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
+
 ## Proyectos Seleccionados
 
 - [Proyecto 1: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
@@ -62,6 +87,7 @@ Soy analista de datos con una formación interdisciplinaria (un poco inusual) en
 ## Enlace a portfolio de proyectos en GitHub
 
 - [Portfolio de Proyectos en GitHub](https://github.com/davesh9123-alt/David-Salas-Data-Portfolio)
+
 
 
 ## [Proyecto 1: Analitica de Marketing en Showz (Analisis de Cohortes)](https://github.com/davesh9123-alt/S10_Analitica_Marketing_Showz_Cohortes)
