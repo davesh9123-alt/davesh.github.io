@@ -15,9 +15,17 @@ Soy analista de datos con una formación interdisciplinaria (un poco inusual) en
 
 ## Contact me
 
-LinkedIn: https://www.linkedin.com/in/davidsalasherrera/
+🔗LinkedIn: www.linkedin.com/in/davidsalasherrera
 
-E-mail: davidsalasherrera@outlook.com
+📧E-mail: davidsalasherrera@outlook.com
+
+🔗Github: https://github.com/davesh9123-alt
+
+🔗GitHub Page: https://davesh9123-alt.github.io/
+
+📄English CV:: https://docs.google.com/document/d/1s_r3sy7Io3w3-mvWUzh6kqr1f1KiNghobvmMNISvgQw/edit?usp=drive_link
+
+📄Español CV: https://docs.google.com/document/d/1wQtkImOQZOKNnl2Mfp7vr5nbJZn2BZKpcg4IZOFycFg/edit?usp=drive_link
 
 
 ## Tech stack
