@@ -46,9 +46,9 @@ Mi enfoque es la Analítica de Marketing, ayudando a las empresas a maximizar el
 
 🔗GitHub Page: https://davesh9123-alt.github.io/
 
-📄[English CV](https://drive.google.com/file/d/1rUZ-ne3e4MNJuY-P04F5Tq9L_djayzN2/view?usp=drive_link)
+📄
 
-📄[Español CV](https://drive.google.com/file/d/1R7UA4QQgP7gt7mRW3JBzKR95keRGJwOW/view?usp=drive_link)
+📄
 
 
 
